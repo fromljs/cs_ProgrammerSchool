@@ -31,6 +31,11 @@ namespace ProgrammerSchool
     {
         public int[] solution(int[] array, int[,] commands)
         {
+            foreach (var item in array)
+            {
+                System.Console.WriteLine(item);
+            }
+
             int[] answer = new int[] { };
             return answer;
         }

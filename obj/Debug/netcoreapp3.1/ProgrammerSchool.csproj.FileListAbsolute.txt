@@ -11,3 +11,17 @@ C:\Users\jslee\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\ProgrammerSchool
 C:\Users\jslee\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ProgrammerSchool.dll
 C:\Users\jslee\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ProgrammerSchool.pdb
 C:\Users\jslee\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ProgrammerSchool.genruntimeconfig.cache
+C:\Users\jslee\Source\Repos\ProgrammerSchool\bin\Debug\netcoreapp3.1\ProgrammerSchool.exe
+C:\Users\jslee\Source\Repos\ProgrammerSchool\bin\Debug\netcoreapp3.1\ProgrammerSchool.deps.json
+C:\Users\jslee\Source\Repos\ProgrammerSchool\bin\Debug\netcoreapp3.1\ProgrammerSchool.runtimeconfig.json
+C:\Users\jslee\Source\Repos\ProgrammerSchool\bin\Debug\netcoreapp3.1\ProgrammerSchool.runtimeconfig.dev.json
+C:\Users\jslee\Source\Repos\ProgrammerSchool\bin\Debug\netcoreapp3.1\ProgrammerSchool.dll
+C:\Users\jslee\Source\Repos\ProgrammerSchool\bin\Debug\netcoreapp3.1\ProgrammerSchool.pdb
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.csproj.AssemblyReference.cache
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.AssemblyInfoInputs.cache
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.AssemblyInfo.cs
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.csproj.CoreCompileInputs.cache
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.dll
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.pdb
+C:\Users\jslee\Source\Repos\ProgrammerSchool\obj\Debug\netcoreapp3.1\ProgrammerSchool.genruntimeconfig.cache
