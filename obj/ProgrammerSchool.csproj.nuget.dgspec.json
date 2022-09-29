@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jslee\\Source\\Repos\\ProgrammerSchool\\ProgrammerSchool.csproj": {}
+    "D:\\Source\\Repos\\cs_ProgrammerSchool\\ProgrammerSchool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jslee\\Source\\Repos\\ProgrammerSchool\\ProgrammerSchool.csproj": {
+    "D:\\Source\\Repos\\cs_ProgrammerSchool\\ProgrammerSchool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jslee\\Source\\Repos\\ProgrammerSchool\\ProgrammerSchool.csproj",
+        "projectUniqueName": "D:\\Source\\Repos\\cs_ProgrammerSchool\\ProgrammerSchool.csproj",
         "projectName": "ProgrammerSchool",
-        "projectPath": "C:\\Users\\jslee\\Source\\Repos\\ProgrammerSchool\\ProgrammerSchool.csproj",
+        "projectPath": "D:\\Source\\Repos\\cs_ProgrammerSchool\\ProgrammerSchool.csproj",
         "packagesPath": "C:\\Users\\jslee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jslee\\Source\\Repos\\ProgrammerSchool\\obj\\",
+        "outputPath": "D:\\Source\\Repos\\cs_ProgrammerSchool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

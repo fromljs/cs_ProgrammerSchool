@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-/*
- * 
+﻿/*
+ *
  * 두 정수 사이의 합
 문제 설명
 두 정수 a, b가 주어졌을 때 a와 b 사이에 속한 모든 정수의 합을 리턴하는 함수, solution을 완성하세요.
@@ -21,16 +17,26 @@ a	b	return
 
 */
 
-/*
- * def solution(a,b):
-    if a > b:
-        a,b = b,a
-    return sum(range(a,b+1,1))
-*/
-
 namespace ProgrammerSchool
 {
-    class lv1_08
+    internal class lv1_08
     {
+        public long solution(int a, int b)
+        {
+            long answer = 0;
+            int temp = 0;
+            if (a > b)
+            {
+                temp = a;
+                a = b;
+                b = temp;
+            }
+            for (int i = a; i <= b; i++)
+            {
+                answer += i;
+            }
+
+            return answer;
+        }
     }
 }

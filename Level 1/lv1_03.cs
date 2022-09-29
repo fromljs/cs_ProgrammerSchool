@@ -18,19 +18,22 @@ n	return
 
 */
 
-/*
-
-def solution(n):
-    answer = 0
-    for i in range(1, n + 1):
-        if n % i == 0:
-            answer = answer + i
-    return answer
-*/
-
-namespace ProgrammerSchool.Level_1
+namespace ProgrammerSchool
 {
     internal class lv1_03
     {
+        public int solution(int n)
+        {
+            int answer = 0;
+            for (int i = 1; i <= n; i++)
+            {
+                if (n % i == 0)
+                {
+                    answer += i;
+                }
+            }
+
+            return answer;
+        }
     }
 }
