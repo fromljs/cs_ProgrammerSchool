@@ -5,21 +5,18 @@ namespace ProgrammerSchool
     {
         private static void Main(string[] args)
         {
-            lv1_03 q03 = new lv1_03();
-            int a03 = q03.solution(12);
-            System.Console.WriteLine(a03);
+            System.Console.WriteLine("### Sol13 ###");
+            lv1_13 q13 = new lv1_13();
 
-            lv1_09 q09 = new lv1_09();
-            int[] a09 = q09.solution(3, 12);
-            int[] a09_1 = q09.solution(2, 5);
-            //System.Console.WriteLine("{0}  {1}  ", a09[0], a09[1]);
+            int[] q13_1 = { 1, 5, 2, 6, 3, 7, 4 };
+            int[,] q13_2 = { { 2, 5, 3 }, { 4, 4, 1 }, { 1, 7, 3 } };
+            int[] answer = q13.solution(q13_1, q13_2);
 
-            lv1_13 sol = new lv1_13();
+            foreach (var item in answer)
+            {
+                System.Console.WriteLine(item);
+            }
 
-            int[] a = { 1, 5, 2, 6, 3, 4 };
-            int[,] a2 = { { 2, 5, 3 }, { 4, 4, 1 }, { 1, 7, 3 } };
-            int[] answer = sol.solution(a, a2);
-            System.Console.WriteLine(answer);
         }
     }
 }
