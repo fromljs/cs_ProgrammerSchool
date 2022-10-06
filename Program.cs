@@ -1,5 +1,4 @@
-﻿
-namespace ProgrammerSchool
+﻿namespace ProgrammerSchool
 {
     internal class Program
     {
@@ -17,6 +16,12 @@ namespace ProgrammerSchool
                 System.Console.WriteLine(item);
             }
 
+            System.Console.WriteLine("### Sol 14 ###");
+            lv1_14 q14 = new lv1_14();
+            int a14 = q14.solution(10);
+            System.Console.WriteLine(a14);
+            a14 = q14.solution(5);
+            System.Console.WriteLine(a14);
         }
     }
 }
